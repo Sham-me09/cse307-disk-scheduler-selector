@@ -52,5 +52,5 @@ Seeds are fixed, so the numbers in the report can be reproduced exactly.
 ## AI assistance disclosure
 I used an AI assistant (Claude) to help write the code skeleton and the LaTeX
 template. The experimental design choices, the interpretation of results and
-the written analysis are mine, and I can explain every part of the code.
-(Edit this paragraph so it matches what you actually did.)
+the written analysis are mine, and I can explain every part of the code. I reviewed and modified the code as needed, and I am responsible for the experimental design, results, interpretation, and written analysis presented in this report.
+
